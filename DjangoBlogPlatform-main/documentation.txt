@@ -1,0 +1,11 @@
+Welcome to God Blog App!
+     The best blogging app in the world!
+     You can post on whatever topic you want!
+     Login with a supa dupa profile!
+     And more or less have a good time!
+
+Note:
+   This application is written in django and you 
+   CANNOT view the source code for this project.
+
+By:Arjun Ganti
